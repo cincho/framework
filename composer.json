@@ -1,5 +1,5 @@
 {
-    "name": "cincho/reader",
+    "name": "cincho/framework",
     "license": "GPL-3.0-only",
     "type": "project",
     "require": {
