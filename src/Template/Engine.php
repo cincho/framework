@@ -41,7 +41,6 @@ class Engine
     
     public function end(string $id)
     {
-        dd($this);
         if (isset($this->components[$id])) {
             ob_get_clean();
             echo $this->components[$id];
